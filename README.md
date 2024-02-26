@@ -1,2 +1,3 @@
-# Python-exercicios
- Exercicios para pratica de Python
+# Python-exercicios 
+***
+ Exercicios para _*pratica*_ de Python
