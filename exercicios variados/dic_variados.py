@@ -17,7 +17,7 @@ def linha(msg):
 
 linha('Daniel')
 linha('vasco')
-linha('Vai Tomar no Cu')
+linha('Vamos ser campeão')
 
 
 def contador(i, f, p):
