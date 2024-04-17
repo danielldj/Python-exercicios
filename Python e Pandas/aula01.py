@@ -1,7 +1,8 @@
 import pandas as pd
 
 vendas_df = pd.read_csv('Contoso - Vendas  - 2017.csv', sep=';')
+lojas_df = pd.read_csv('Contoso - Lojas',sep=';')
+produtos_df = pd.read_csv('Contoso - Cadastro Produtos',sep=';')
+clientes_df = pd.read_csv('Contoso - Clientes',sep=';')
 
-
-prdutos_quantidade = vendas_df[['ID Produto', 'Quantidade Vendida', 'Quantidade Devolvida']]
-print(prdutos_quantidade)
+print(vendas_df)
